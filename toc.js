@@ -125,7 +125,7 @@ toc = [
     "dt": 277
   },
   {
-    "title": "II.1 Beauty and Goodness",
+    "title": "II.1 Beauty and Goodness (→ PE17:150, 162)",
     "eng": 173,
     "dt": 281
   },
@@ -135,7 +135,7 @@ toc = [
     "dt": 283
   },
   {
-    "title": "II.3 Eldarin Hands, Fingers and Numerals",
+    "title": "II.3 Eldarin Hands, Fingers and Numerals (→ VT47-48)",
     "eng": 177,
     "dt": 286
   },
@@ -155,7 +155,7 @@ toc = [
     "dt": 307
   },
   {
-    "title": "II.7 Mind-Pictures",
+    "title": "II.7 Mind-Pictures (→ PE17:179)",
     "eng": 198,
     "dt": 319
   },
@@ -165,7 +165,7 @@ toc = [
     "dt": 322
   },
   {
-    "title": "II.9 Ósanwe-kenta",
+    "title": "II.9 Ósanwe-kenta (→ VT39)",
     "eng": 205,
     "dt": 330
   },
@@ -180,17 +180,17 @@ toc = [
     "dt": 366
   },
   {
-    "title": "II.12 The Knowledge of the Valar",
+    "title": "II.12 The Knowledge of the Valar (→ PE17:177ff.)",
     "eng": 232,
     "dt": 377
   },
   {
-    "title": "II.13 Spirit",
+    "title": "II.13 Spirit (Text 1 → PE17:142f.)",
     "eng": 235,
     "dt": 382
   },
   {
-    "title": "II.14 The Visible Forms of the Valar and Maiar",
+    "title": "II.14 The Visible Forms of the Valar and Maiar (→ PE17:174-177)",
     "eng": 241,
     "dt": 392
   },
